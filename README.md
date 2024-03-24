@@ -1,2 +1,0 @@
-# EpicodeExcel
-Progetti Excel
